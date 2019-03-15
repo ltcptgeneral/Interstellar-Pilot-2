@@ -66,6 +66,8 @@
     <Compile Include="Assets\sceneScripts\tutorialsMenu\loadData.cs" />
     <None Include="Assets\Resources\gameData\tutorials\data\devWorld000.txt" />
     <None Include="Assets\Resources\gameData\tutorials\data\template.txt" />
+    <None Include="Assets\Fonts\Jupiter\LICENSE.txt" />
+    <None Include="Assets\Textures and Sprites\SF UI\Background\LICENSE.txt" />
     <None Include="Assets\Resources\gameData\options\options.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Files/Projects_Large/Interstellar Pilot 2 Master/Interstellar Pilot 2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
