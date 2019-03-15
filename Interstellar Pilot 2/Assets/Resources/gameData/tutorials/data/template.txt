@@ -1,0 +1,3 @@
+flag_complete,date,sector,faction,pilot,description
+object_type,x,y,[data]
+object_type,x,y,[data]

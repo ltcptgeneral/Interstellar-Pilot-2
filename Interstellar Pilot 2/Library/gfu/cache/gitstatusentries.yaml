@@ -1,0 +1,1200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2019-03-10T16:09:21.699-05:00
+  initializedAtString: 2019-03-10T16:09:21.699-05:00
+  entries:
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub.meta
+    projectPath: Assets\plugins\GitHub.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor.meta
+    projectPath: Assets\plugins\GitHub\Editor.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\credits.txt
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\credits.txt.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\eula.txt
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\eula.txt.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\libsfw.bundle
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\libsfw.so
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\sfw.net.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\System.Threading.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\x64.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\x86.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Assets\plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Interstellar Pilot 2.sln
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Interstellar Pilot 2.sln
+    projectPath: Interstellar Pilot 2.sln
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\00\00000000000000009000000000000000
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\00\00000000000000009000000000000000
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000a100000000000000
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\00\0000000000000000a100000000000000
+    projectPath: Library\metadata\00\0000000000000000a100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\07\0741931578c80e84f85b10a15f9509e5
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\07\0741931578c80e84f85b10a15f9509e5
+    projectPath: Library\metadata\07\0741931578c80e84f85b10a15f9509e5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\07\0741931578c80e84f85b10a15f9509e5.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\07\0741931578c80e84f85b10a15f9509e5.info
+    projectPath: Library\metadata\07\0741931578c80e84f85b10a15f9509e5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1
+    projectPath: Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1.info
+    projectPath: Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\87\877ef3585573ce44eab899298be23158
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\87\877ef3585573ce44eab899298be23158
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b1\b171a72da1336124ca98d558ceedec0e
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\b1\b171a72da1336124ca98d558ceedec0e
+    projectPath: Library\metadata\b1\b171a72da1336124ca98d558ceedec0e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b1\b171a72da1336124ca98d558ceedec0e.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\b1\b171a72da1336124ca98d558ceedec0e.info
+    projectPath: Library\metadata\b1\b171a72da1336124ca98d558ceedec0e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9
+    projectPath: Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9.info
+    projectPath: Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f
+    projectPath: Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f.info
+    projectPath: Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797
+    projectPath: Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797.info
+    projectPath: Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\__Backupscenes\1.backup
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\__Backupscenes\1.backup
+    projectPath: Temp\__Backupscenes\1.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1e371c5c834350547af158d7caa578d8
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-1e371c5c834350547af158d7caa578d8
+    projectPath: Temp\UnityTempFile-1e371c5c834350547af158d7caa578d8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-20b08f485ce765e4db5174825e8ae2dd
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-20b08f485ce765e4db5174825e8ae2dd
+    projectPath: Temp\UnityTempFile-20b08f485ce765e4db5174825e8ae2dd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-2c8fe587fc951ad47afaf38e1e5b5e4b
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-2c8fe587fc951ad47afaf38e1e5b5e4b
+    projectPath: Temp\UnityTempFile-2c8fe587fc951ad47afaf38e1e5b5e4b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-5670755214cefdc4ba60738070bb54aa
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-5670755214cefdc4ba60738070bb54aa
+    projectPath: Temp\UnityTempFile-5670755214cefdc4ba60738070bb54aa
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-58b4e97a9d52aa442bd9d4fd447807c8
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-58b4e97a9d52aa442bd9d4fd447807c8
+    projectPath: Temp\UnityTempFile-58b4e97a9d52aa442bd9d4fd447807c8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-5d0f9eff8f8a5394c988ba95f81bad5f
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-5d0f9eff8f8a5394c988ba95f81bad5f
+    projectPath: Temp\UnityTempFile-5d0f9eff8f8a5394c988ba95f81bad5f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-63bb66df5b2652743b3016bcf6057440
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-63bb66df5b2652743b3016bcf6057440
+    projectPath: Temp\UnityTempFile-63bb66df5b2652743b3016bcf6057440
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7746016f0a275e046accbf17d066ee43
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-7746016f0a275e046accbf17d066ee43
+    projectPath: Temp\UnityTempFile-7746016f0a275e046accbf17d066ee43
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-8b83d659d6d98cf4cb0cbacc748daa19
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-8b83d659d6d98cf4cb0cbacc748daa19
+    projectPath: Temp\UnityTempFile-8b83d659d6d98cf4cb0cbacc748daa19
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ab4e9131b8cd2f2478d430b251b0892a
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-ab4e9131b8cd2f2478d430b251b0892a
+    projectPath: Temp\UnityTempFile-ab4e9131b8cd2f2478d430b251b0892a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-bda48d0d6d402ba4c93c0264a605dc2c
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-bda48d0d6d402ba4c93c0264a605dc2c
+    projectPath: Temp\UnityTempFile-bda48d0d6d402ba4c93c0264a605dc2c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c50181ffb8dfe6141adebeae9d12b0a9
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-c50181ffb8dfe6141adebeae9d12b0a9
+    projectPath: Temp\UnityTempFile-c50181ffb8dfe6141adebeae9d12b0a9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c5af51c0b017d7f418a2f22763edaccd
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-c5af51c0b017d7f418a2f22763edaccd
+    projectPath: Temp\UnityTempFile-c5af51c0b017d7f418a2f22763edaccd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-cda2fae54b1868c45b38101365d11258
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-cda2fae54b1868c45b38101365d11258
+    projectPath: Temp\UnityTempFile-cda2fae54b1868c45b38101365d11258
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-daac3dd54b3feba4bb7dcb03b8342ee0
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-daac3dd54b3feba4bb7dcb03b8342ee0
+    projectPath: Temp\UnityTempFile-daac3dd54b3feba4bb7dcb03b8342ee0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-db2230f6bbce5e24da710185d832717f
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-db2230f6bbce5e24da710185d832717f
+    projectPath: Temp\UnityTempFile-db2230f6bbce5e24da710185d832717f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-edc05753eca85574ea934fdc5db8821d
+    fullPath: D:\Files\Projects_Large\Interstellar Pilot 2\Temp\UnityTempFile-edc05753eca85574ea934fdc5db8821d
+    projectPath: Temp\UnityTempFile-edc05753eca85574ea934fdc5db8821d
+    originalPath: 
+    status: 1
+    staged: 0
