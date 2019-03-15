@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-D:/Files/Projects_Large/IP2 Build Win/qwertyuiop.exe
+D:/Files/Projects_Large/Interstellar Pilot 2 Master/IP2 Build Win/qwertyuiop.exe
 SceneListBegin?
 Assets/Scenes/mainMenu.unity
 Assets/Scenes/tutorialsMenu.unity

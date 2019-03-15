@@ -1,0 +1,5 @@
+Audio, 0, 0, 0
+Video, 0, 0, 0, 0
+Controls, 0
+Auto-Save, 1, 1, 1, 0
+General, 1, 0, 1, "Player"

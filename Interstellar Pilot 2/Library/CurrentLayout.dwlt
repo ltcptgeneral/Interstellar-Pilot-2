@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 93
+  controlID: 92
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 402
     height: 652
-  m_MinSize: {x: 202, y: 224}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 94
+  controlID: 11
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 95
+  controlID: 12
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -264,8 +264,8 @@ MonoBehaviour:
     y: 0
     width: 966
     height: 652
-  m_MinSize: {x: 204, y: 224}
-  m_MaxSize: {x: 4004, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 17}
@@ -370,20 +370,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Resources/gameData/options
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets
+  - Assets/Resources/gameData/options
   m_LastFoldersGridSize: 96
   m_LastProjectPath: D:\Files\Projects_Large\Interstellar Pilot 2 Master\Interstellar
     Pilot 2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 06260000
-    m_LastClickedID: 9734
+    scrollPos: {x: 0, y: 20}
+    m_SelectedIDs: 3a380000
+    m_LastClickedID: 14394
     m_ExpandedIDs: 0000000006260000342600003c260000582600006226000086260000b4260000002700000c27000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -533,7 +533,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 
+      m_ExpandedIDs: 0cf1ffff10f1ffff18f8ffff22f8ffff26f8ffff34f8ffff4ef8ffffa0f8ffffb0f9ffffccf9fffffcfaffff18fbffff24fbffffd4fbffffd6fbffff9031000016320000d8370000fc37000006380000603800007238000086380000c2380000ec380000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -621,7 +621,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.026892625, y: 0.5895462, z: -0.019645156, w: 0.8070478}
     speed: 2
-    m_Value: {x: 0.026892627, y: 0.5895462, z: -0.019645156, w: 0.8070478}
+    m_Value: {x: 0.026892625, y: 0.5895462, z: -0.019645156, w: 0.8070478}
   m_Size:
     m_Target: 214.4909
     speed: 2
