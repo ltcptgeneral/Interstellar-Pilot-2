@@ -1,13 +1,13 @@
 sceneSetups:
 - path: Assets/Scenes/mainMenu.unity
-  isLoaded: 1
-  isActive: 1
+  isLoaded: 0
+  isActive: 0
 - path: Assets/Scenes/tutorialsMenu.unity
   isLoaded: 0
   isActive: 0
 - path: Assets/Scenes/optionsMenu.unity
-  isLoaded: 0
-  isActive: 0
+  isLoaded: 1
+  isActive: 1
 - path: Assets/Scenes/gameProper.unity
   isLoaded: 0
   isActive: 0
