@@ -1,10 +1,11 @@
 Android
 PlayerPath?
-D:/Files/Projects_Large/Interstellar Pilot 2 Master/IP Build Android/Interstellar-Pilot-2.apk
+D:/Files/Projects_Large/Interstellar Pilot 2 Master/IP2 Build Android/Interstellar Pilot 2.apk
 SceneListBegin?
 Assets/Scenes/mainMenu.unity
 Assets/Scenes/tutorialsMenu.unity
 Assets/Scenes/gameProper.unity
+Assets/Scenes/optionsMenu.unity
 SceneListEnd?
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 01aa15e337e3a9c62f15153dfac6d589 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown

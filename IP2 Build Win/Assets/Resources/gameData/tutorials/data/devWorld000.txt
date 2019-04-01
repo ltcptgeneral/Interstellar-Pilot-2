@@ -1,3 +1,0 @@
-1,2200-01-01,dev_sector,dev_faction,developer,developer sector
-object_type,x,y,[data]
-object_type,x,y,[data]
