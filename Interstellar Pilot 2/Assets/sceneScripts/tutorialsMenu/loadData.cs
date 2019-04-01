@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEditor;
+using System.IO;
 using System.Linq;
 using UnityEngine.UI;
 
@@ -31,11 +33,17 @@ public class loadData : MonoBehaviour
         descriptionText.enabled = false;
         subheaderLables.enabled = false;
         Object[] files = Resources.LoadAll(path, typeof(TextAsset)).ToArray();
+        StreamReader reader;
         //CSVReader reader = new CSVReader();
 
         for (int i = 0; i < files.Length; i++) {
             GameObject button = Instantiate(buttonTemplate) as GameObject;
             button.SetActive(true);
+
+            //reader = new StreamReader(files[i]);
+            //string fileText = reader.ReadToEnd();
+
+            //string fileText = files[i].Text;
 
             string fileText = System.IO.File.ReadAllText("Assets/Resources/gameData/tutorials/data/" + files[i].name + ".txt");
             string[,] parsed = CSVReader.SplitCsvGrid(fileText);
